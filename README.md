@@ -1,2 +1,2 @@
 # tdr_to_msh
-A Python script which converts TDR Sentaurus FEM meshes to MSH Gmsh readable format
+A Python script which converts ASCII TDR Sentaurus FEM meshes to ASCII MSH Gmsh readable format
